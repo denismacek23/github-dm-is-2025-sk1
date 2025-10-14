@@ -2,7 +2,7 @@
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("******************");
+    Console.WriteLine("*******************");
     Console.WriteLine("**** Výpis řady čísel ****");
     Console.WriteLine("******************");
     Console.WriteLine("**** Denis Macek ****");
