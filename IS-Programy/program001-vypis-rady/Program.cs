@@ -2,7 +2,7 @@
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("*******************");
+    Console.WriteLine("******************");
     Console.WriteLine("**** Výpis řady čísel ****");
     Console.WriteLine("******************");
     Console.WriteLine("**** Denis Macek ****");
@@ -21,9 +21,9 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady: ");
     }
 
-
-
-    Console.WriteLine();
-    Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");
-    again = Console.ReadLine();
-}
+Console.Write("Zadejte diferenci(celé číslo): ");
+    int step;
+    while (int.TryParse(Console.ReadLine(), out step))
+ {
+        Console.Write("Nezadali jste celé číslo. Zadejte diferenci znovu: ");
+    }

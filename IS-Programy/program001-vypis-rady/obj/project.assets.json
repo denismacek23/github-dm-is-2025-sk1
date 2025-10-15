@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\denis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2025\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\Users\\denis\\Documents\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\aaa\\IS-2025\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2025\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "projectPath": "C:\\Users\\denis\\Documents\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\denis\\Documents\\github-dm-is-2025-sk1\\IS-Programy\\program001-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

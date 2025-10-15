@@ -14,7 +14,7 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte první číslo řady (celé číslo): ");
+    Console.Write("Zadejte hodnotu (celé číslo): ");
     int first;
 
     while (!int.TryParse(Console.ReadLine(), out first))
