@@ -1,0 +1,15 @@
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\bin\Debug\net9.0\program005-generovani-pseudocisel.exe
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\bin\Debug\net9.0\program005-generovani-pseudocisel.deps.json
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\bin\Debug\net9.0\program005-generovani-pseudocisel.runtimeconfig.json
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\bin\Debug\net9.0\program005-generovani-pseudocisel.dll
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\bin\Debug\net9.0\program005-generovani-pseudocisel.pdb
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.AssemblyInfoInputs.cache
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.AssemblyInfo.cs
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.sourcelink.json
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.dll
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\refint\program005-generovani-pseudocisel.dll
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.pdb
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\program005-generovani-pseudocisel.genruntimeconfig.cache
+C:\Users\denis\Documents\github-dm-is-2025-sk1\IS-Programy\program005-generovani-pseudocisel\obj\Debug\net9.0\ref\program005-generovani-pseudocisel.dll
